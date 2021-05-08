@@ -2,7 +2,7 @@
 - 👀 I’m interested in making FiveM Scripts
 - 🌱 I’m currently learning coding in general
 - 💞️ I’m looking to collaborate on FiveM Scrips
-- 📫 You can reach me on discord ZS#9213
+- 📫 You can reach me on discord ZS#9999
 
 <!---
 zselite/zselite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
